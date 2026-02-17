@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Env
+venv/
+.env/
+
+# SQLite DB
+tasks.db
+
+# VSCode
+.vscode/
+
+# Mac
+.DS_Store
+
+*.xlsx
